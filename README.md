@@ -48,7 +48,7 @@ The goal is to identify the most effective algorithm for credit prediction based
 * matplotlib / seaborn
 * scikit-learn
 
-## How to Run
+## How to Run ?
 
 git clone <your-repo-link>
 cd <repo-folder>
